@@ -1,3 +1,5 @@
+#Lets start with a simple project
+
 print("How many passengers in the microbus ?")
 passengers = input("Enter a number: ")
 
