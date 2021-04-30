@@ -1,0 +1,4 @@
+Notes file contains project notes and steps
+
+1- created the main concept of our project, which is a simple fare calculator that runs in terminal.
+
